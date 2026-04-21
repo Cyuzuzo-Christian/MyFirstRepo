@@ -1,0 +1,14 @@
+Brief Introduction About Myself
+
+I am an aspiring Artificial Intelligence and Software Engineering student and a current 
+ALX Pathway learner. My goal is to leverage Artificial Intelligence to build platforms 
+that reform the education system and create sustainable job opportunities for youth to 
+combat unemployment. I am driven by the belief that technology can bridge systemic gaps 
+and provide equal access to quality learning.
+
+Currently, I am building a strong technical foundation through the ALX Pathway program, 
+where I study about foundation of Computing, Linux, Statistics, and College Algebra. 
+I have developed practical skills in HTML5, and CSS3, which I apply to real-world 
+projects. Notably, I served as a Data Analyst for the Aqua Grow learner's team project in 
+Alx , a hydroponic system designed for sustainable agriculture, and I developed a Wallet 
+Tracker application that can help people to manage their finances.
